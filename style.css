@@ -4,7 +4,8 @@
 
 body{
   background-color: #F0E884;
-  font-family: "Open Sans", sans-serif;
+  /*font-family: "Open Sans", sans-serif; */
+  font-family: 'Ovo', serif; 
   padding: 5px 25px;
   font-size: 18px;
   margin: 0;
